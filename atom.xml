@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://super-wcg.github.io/"/>
+  <link href="https://super-wcg.github.io/"/>
   <updated>2018-08-20T12:46:45.304Z</updated>
-  <id>http://super-wcg.github.io/</id>
+  <id>https://super-wcg.github.io/</id>
   
   <author>
     <name>Changgang Wang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://super-wcg.github.io/2018/08/20/hello-world/"/>
-    <id>http://super-wcg.github.io/2018/08/20/hello-world/</id>
+    <link href="https://super-wcg.github.io/2018/08/20/hello-world/"/>
+    <id>https://super-wcg.github.io/2018/08/20/hello-world/</id>
     <published>2018-08-20T12:46:45.303Z</published>
     <updated>2018-08-20T12:46:45.304Z</updated>
     
