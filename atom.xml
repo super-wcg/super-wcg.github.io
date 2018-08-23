@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://super-wcg.github.io/"/>
-  <updated>2018-08-20T12:46:45.304Z</updated>
+  <updated>2018-08-23T14:22:38.515Z</updated>
   <id>https://super-wcg.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>Resume</title>
     <link href="https://super-wcg.github.io/2018/08/20/hello-world/"/>
     <id>https://super-wcg.github.io/2018/08/20/hello-world/</id>
     <published>2018-08-20T12:46:45.303Z</published>
-    <updated>2018-08-20T12:46:45.304Z</updated>
+    <updated>2018-08-23T14:22:38.515Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,8 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;h1 id=&quot;基本信息&quot;&gt;&lt;a href=&quot;#基本信息&quot; class=&quot;headerlink&quot; title=&quot;基本信息&quot;&gt;&lt;/a&gt;基本信息&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;王常刚&lt;/strong&gt;，男，硕士研究生学历，&lt;a
         
       
     
